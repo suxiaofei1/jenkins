@@ -1,0 +1,60 @@
+{
+  "uid" : "afb556cb1b28b791",
+  "name" : "Test_DengLu.test_name_password",
+  "fullName" : "scripts.test_aaaa.Test_DengLu.test_name_password",
+  "historyId" : "d46a0f9de60897f2df02803389bd13ed",
+  "time" : {
+    "start" : 1628658679227,
+    "stop" : 1628658679243,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I22UMTN"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7328-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_aaaa"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_aaaa"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_DengLu.test_name_password"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_aaaa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afb556cb1b28b791.json",
+  "parameterValues" : [ ]
+}

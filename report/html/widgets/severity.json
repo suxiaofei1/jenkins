@@ -1,0 +1,21 @@
+[ {
+  "uid" : "e422998614233aed",
+  "name" : "Test_DengLu.test_name_password2",
+  "time" : {
+    "start" : 1628658679243,
+    "stop" : 1628658679352,
+    "duration" : 109
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "afb556cb1b28b791",
+  "name" : "Test_DengLu.test_name_password",
+  "time" : {
+    "start" : 1628658679227,
+    "stop" : 1628658679243,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
